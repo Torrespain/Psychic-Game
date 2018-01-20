@@ -1,0 +1,10 @@
+body{
+	background-image: url(../images/wizard.jpg);
+	background-repeat: no-repeat;
+	background-position: 65% 10%;;
+}
+.container{
+	background-color: white;
+	max-width: 250px;
+	margin-left: 8px;
+}
